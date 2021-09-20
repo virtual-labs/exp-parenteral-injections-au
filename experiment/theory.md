@@ -1,6 +1,6 @@
-## Principle
+### Principle
 
-&nbsp;
+
 
 This section describes the use of rodents - how to handle them, manually restrain them, how to inject the experimental animals. For the safety of the handler and the animal, proper methods for handling and restraining laboratory animals should be followed. Many animal facilities provide training in handling techniques to enable the inexperienced handler to gain confidence and skill. Improper handling can result in increased stress and injury to the animal. In addition, the handler risks injury from bite wounds or scratches inflicted when the animal becomes fearful or anxious. By using sure, direct movements with a determined attitude, the animal can be easily handled and restrained. It should be remembered that mice will always try to bite the operator, proper restraint of a mouse is important for further manipulation. To properly restrain a mouse, pick it up by the base of the tail with your right hand and place it on the top of a wire cage lid, pull gently back on the tail, which will ensure the mouse to grasp the bars of the cage lid with all four feet. Then using the thumb and index finger of the left hand, quickly grasp the mouse by the scruff near the base of the head. When the scruff (the back of the neck) is firmly held, lift the mouse and press the tail base with third or fourth finger against the palm. Always remember to wear disposable gloves when you get involved in these lab activities.
 
@@ -17,7 +17,7 @@ Parenteral preparations are sterile preparations intended for administration by 
 &nbsp;
  
 
-### Types of Parenteral Injections
+#### Types of Parenteral Injections
  
 
 &nbsp;
