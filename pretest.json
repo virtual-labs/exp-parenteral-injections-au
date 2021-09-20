@@ -1,0 +1,60 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1.Before giving injection to mice, the skin should be disinfected using which type of alcohol :",
+      "answers": {
+        "a": "90% alcohol",
+        "b": "100% alcohol",
+        "c": "isopropyl alcohol",
+        "d": "70% alcohol"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2.Which type of injection is an alternative to intramuscular injection in the mouse",
+      "answers": {
+        "a": "Subcutaneous injection",
+        "b": "Intravenous injection",
+        "c": "Intradermal injection",
+        "d": "None of these"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3.For the administration of drug to the mouse which type of parental injection is used:",
+      "answers": {
+        "a": "Intraperitoneal injection",
+        "b": "Intravenous injection",
+        "c": "Both of them",
+        "d": "None of these"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4.How much volume of injection is given to the mouse in case of intravenous injection?",
+      "answers": {
+        "a": "0.9ml",
+        "b": "0.5ml",
+        "c": "1ml",
+        "d": "0.7ml"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5.Which part of the mouse is suitable for giving intravenous injection:",
+      "answers": {
+        "a": "Tail Vein",
+        "b": "Caudal Thigh Muscles",
+        "c": "Loose skin between shoulders",
+        "d": "None of these"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1.For_________ injections, the site usually chosen is the loose skin between the shoulder blades",
+      "answers": {
+        "a": "intravenous",
+        "b": "subcutaneous",
+        "c": "intradermal",
+        "d": "intraperitonial"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2.Which method of parenteral injections would you suggest to Dr. Ivan if he wants to study the action of the agent specifically on cells of lymphoid origin",
+      "answers": {
+        "a": "Intrathymic",
+        "b": "Intravenous",
+        "c": "Footpad",
+        "d": "Intradermal"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3.Intraperitonial injections are the most commonly used method for injection of suspended agents",
+      "answers": {
+        "a": "True",
+        "b": "False"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4.A properly performed _______ injection will result in a small, round skin welt",
+      "answers": {
+        "a": "Intraperitonial",
+        "b": "Subcutaneous",
+        "c": "Intravenous",
+        "d": "Intradermal"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5.For the production of T cell lines and clones in mice which type of parental injection is used:",
+      "answers": {
+        "a": "Intradermal injection",
+        "b": "Subcutaneous injection",
+        "c": "Intravenous injection",
+        "d": "Footpad injection"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }
+  ]
+}
