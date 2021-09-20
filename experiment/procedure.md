@@ -1,19 +1,18 @@
-## Procedure:-
+### Procedure:-
 
 &nbsp;
 
 
-### Mouse Handling and Manual Restraint:
+#### Mouse Handling and Manual Restraint:
  
 
-&nbsp;
-
-
- 
 
 1. Remove the mouse from the cage by gently grasping the tail at the base. Place the animal on a wire-bar cage lid to permit grasping. (Avoid exciting the mouse with loud noises or sharp movement. Slight, rearward traction on the tail will result in instinctive grasping on the wire-bar cage lid. )
+
 2. Approach the back of the neck from the rear with the free hand. Firmly grasp the skin behind the ears with the thumb and index finger.
+
 3. Transfer the tail from preferred hand to beneath the little finger of the hand holding the scruff of the neck.
+
 4. Observe or inject the restrained mouse.
  
 
@@ -29,94 +28,102 @@
 &nbsp;
 
  
-
-### a) Intramuscular Injection:
+#### a) Intramuscular Injection:
  
 
-&nbsp;
 
 
-**Materials Required:**
+##### Materials Required:
  
 
 1. Injectate
+
 2. 1- to 3-ml syringe with 22- to 30-G needle
  
 
-**Procedure:**
+##### Procedure:
  
 
 1. Fill syringe with injectate and remove air bubbles.
+
 2. Manually restrain as described before.
+
 3. Before inserting the needle in the heavy musculature of the upper thigh, rub the area with an Alcohol swab.
+
 4. After injecting Injectate, withdraw the needle and pressurize the area with a cotton ball for a while and place the animal back.
  
 
 &nbsp;
 
 
-### b) Intradermal Injection:
+#### b) Intradermal Injection:
  
 
-&nbsp;
-
-
-**Materials Required:**
- 
+##### Materials Required: 
 
 1. 70% ethanol.
+
 2. Injectate.
+
 3. Clippers with #40 blade.
+
 4. Gauze sponge or swab.
+
 5. 1- to 3-ml syringe with 25- to 30-G needle.
+
 6. Additional reagents and equipments for handling and restraint and anesthesia.
  
 
-**Procedure:**
+##### Procedure:
  
 
 1. Restrain and anesthetize the animal.
+
 2. Use clippers to remove hair from an area on the back and wipe with 70% ethanol on a gauze sponge or swab.
+
 3. Fill syringe with injectate and remove air bubbles.
+
 4. Pull the skin taut with one hand and insert the needle, bevel up and at a shallow angle, just under the superficial layer of epidermis.
+
 5. Inject 50 μl for the mouse. (A bleb will appear at the injection site when needle placement is correct.
  
 
 &nbsp;
 
 
-### c) Subcutaneous Injection:
+#### c) Subcutaneous Injection:
+ 
+
+
+##### Materials Required:
+ 
+
+1. Injectate.
+
+2. 1- to 3-ml syringe with 22- to 30-G needle.
  
 
 &nbsp;
 
-
-**Materials Required:**
- 
-
-1. Injectate.
-2. 1- to 3-ml syringe with 22- to 30-G needle.
- 
-
-**Procedure:**
+##### Procedure:
  
 
 1. Fill syringe with injectate and remove air bubbles.
+
 2. Manually restrain the mouse.
+
 3. Insert the needle under the skin of the interscapular area tented by the restraining thumb and forefinger.
+
 4. Inject with moderate pressure and speed.
  
 
 &nbsp;
 
 
-### d) Intravenous Injection:
+#### d) Intravenous Injection:
 
-&nbsp;
 
- 
-
-**Materials Required:**
+##### Materials Required:
  
 
 1. Injectate.
@@ -126,8 +133,9 @@
 5. Heat lamp or beaker containing warm water.
 6. Gauze sponge or swab.
  
+&nbsp;
 
-**Procedure:**
+##### Procedure:
  
 
 1. Fill syringe with injectate and remove air bubbles. (Removal of air bubbles is critical to avoid air embolism.)
@@ -142,20 +150,21 @@
 &nbsp;
 
 
-### e) Intraperitoneal Injection:
+#### e) Intraperitoneal Injection:
 
-&nbsp;
 
  
 
-**Materials Required:**
+##### Materials Required:
  
 
 1. Injectate.
+
 2. 1- or 3-ml syringe with 22- to 25-G needle.
  
+&nbsp;
 
-**Procedure:**
+##### Procedure:
  
 
 1. Manually restrain the animal.
@@ -168,9 +177,7 @@
 &nbsp;
 
 
-### f) Footpad Injection:
-
-&nbsp;
+#### f) Footpad Injection:
 
  
 
@@ -192,10 +199,9 @@
 &nbsp;
 
 
-### g) Intrathymic Injection:
+#### g) Intrathymic Injection:
  
 
-&nbsp;
 
 
 **Materials Required:**
